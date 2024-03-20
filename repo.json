@@ -1,0 +1,19 @@
+[
+  {
+    "Author": "CatboyEngineering",
+    "Name": "KinkShell",
+    "InternalName": "KinkShell",
+    "AssemblyVersion": "0.0.1",
+    "Description": "Synchronize toys and send commands with other users.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/CatboyEngineering/KinkShellClient",
+    "Tags": ["buttplug", "sync", "haptic", "erp"],
+    "DalamudApiLevel": 9,
+    "LoadPriority": 0,
+    "Punchline": "Synchronize toys and send commands with other users.",
+    "DownloadLinkInstall": "zip",
+    "DownloadLinkTesting": "zip",
+    "DownloadLinkUpdate": "zip",
+    "IconUrl": "png"
+  }
+]
