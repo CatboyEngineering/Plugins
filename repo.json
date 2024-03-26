@@ -11,9 +11,8 @@
     "DalamudApiLevel": 9,
     "LoadPriority": 0,
     "Punchline": "Synchronize toys and send commands with other users.",
-    "DownloadLinkInstall": "zip",
-    "DownloadLinkTesting": "zip",
-    "DownloadLinkUpdate": "zip",
-    "IconUrl": "png"
+    "DownloadLinkInstall": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.1/KinkShell_v0.0.1.zip",
+    "DownloadLinkTesting": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.1/KinkShell_v0.0.1.zip",
+    "DownloadLinkUpdate": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.1/KinkShell_v0.0.1.zip"
   }
 ]
