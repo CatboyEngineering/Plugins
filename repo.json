@@ -2,27 +2,28 @@
 	{
 		"Author": "CatboyEngineering",
 		"Name": "KinkShellClient",
-		"Punchline": "Pair and synchronize toys with other users.",
-		"Description": "Pair and synchronize toys with other users. Use /kinkshell to get started.",
+		"Punchline": "Private chatrooms and adult toy control.",
+		"Description": "Pair and synchronize adult toys with other users, send private chat messages, and more. Use /kinkshell to get started.",
 		"Tags": [
 			"kink",
 			"buttplug",
 			"toys",
 			"sync",
 			"erp",
-			"nsfw"
+			"nsfw",
+			"chat"
 		],
 		"InternalName": "KinkShellClient",
 		"RepoUrl": "https://github.com/CatboyEngineering/KinkShellClient",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 9,
 		"LoadPriority": 0,
-		"AssemblyVersion": "0.0.6.5",
+		"AssemblyVersion": "0.0.6.6",
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 69,
-		"DownloadLinkInstall": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.6.5/latest.zip",
-		"DownloadLinkTesting": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.6.5/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.6.5/latest.zip"
+		"DownloadLinkInstall": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.6.6/latest.zip",
+		"DownloadLinkTesting": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.6.6/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.6.6/latest.zip"
 	}
 ]
