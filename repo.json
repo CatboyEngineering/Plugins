@@ -19,12 +19,12 @@
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 9,
 		"LoadPriority": 0,
-		"AssemblyVersion": "0.0.7",
+		"AssemblyVersion": "0.0.7.5",
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 69,
-		"DownloadLinkInstall": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.7/latest.zip",
-		"DownloadLinkTesting": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.7/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.7/latest.zip"
+		"DownloadLinkInstall": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.7.5/latest.zip",
+		"DownloadLinkTesting": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.7.5/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.7.5/latest.zip"
 	}
 ]
