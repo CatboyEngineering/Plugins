@@ -17,15 +17,15 @@
 		"RepoUrl": "https://github.com/CatboyEngineering/KinkShellClient",
 		"IconUrl": "https://raw.githubusercontent.com/CatboyEngineering/KinkShellClient/main/images/icon.png",
 		"ApplicableVersion": "any",
-		"DalamudApiLevel": 10,
+		"DalamudApiLevel": 11,
 		"LoadPriority": 0,
-		"AssemblyVersion": "0.0.8.0",
+		"AssemblyVersion": "0.0.8.1",
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 69,
-		"DownloadLinkInstall": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.8.0/latest.zip",
-		"DownloadLinkTesting": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.8.0/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.8.0/latest.zip"
+		"DownloadLinkInstall": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.8.1/latest.zip",
+		"DownloadLinkTesting": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.8.1/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.8.1/latest.zip"
 	},
 	{
 		"Author": "CatboyEngineering",
@@ -37,14 +37,14 @@
 		"RepoUrl": "https://github.com/CatboyEngineering/Bzzt",
 		"IconUrl": "https://raw.githubusercontent.com/CatboyEngineering/Bzzt/main/images/icon.png",
 		"ApplicableVersion": "any",
-		"DalamudApiLevel": 10,
+		"DalamudApiLevel": 11,
 		"LoadPriority": 0,
-		"AssemblyVersion": "0.0.0.4",
+		"AssemblyVersion": "0.0.0.5",
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 69,
-		"DownloadLinkInstall": "https://github.com/CatboyEngineering/Bzzt/releases/download/v0.0.0.4/latest.zip",
-		"DownloadLinkTesting": "https://github.com/CatboyEngineering/Bzzt/releases/download/v0.0.0.4/latest.zip",
-		"DownloadLinkUpdate": "https://github.com/CatboyEngineering/Bzzt/releases/download/v0.0.0.4/latest.zip"
+		"DownloadLinkInstall": "https://github.com/CatboyEngineering/Bzzt/releases/download/v0.0.0.5/latest.zip",
+		"DownloadLinkTesting": "https://github.com/CatboyEngineering/Bzzt/releases/download/v0.0.0.5/latest.zip",
+		"DownloadLinkUpdate": "https://github.com/CatboyEngineering/Bzzt/releases/download/v0.0.0.5/latest.zip"
 	}
 ]
