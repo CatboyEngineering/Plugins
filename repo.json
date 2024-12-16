@@ -17,14 +17,16 @@
 		"RepoUrl": "https://github.com/CatboyEngineering/KinkShellClient",
 		"IconUrl": "https://raw.githubusercontent.com/CatboyEngineering/KinkShellClient/main/images/icon.png",
 		"ApplicableVersion": "any",
-		"DalamudApiLevel": 11,
 		"LoadPriority": 0,
 		"AssemblyVersion": "0.0.8.1",
+		"DalamudApiLevel": 11,
+		"TestingAssemblyVersion": "0.0.9",
+		"TestingDalamudApiLevel": 11,
 		"IsHide": "False",
 		"IsTestingExclusive": "False",
 		"DownloadCount": 69,
 		"DownloadLinkInstall": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.8.1/latest.zip",
-		"DownloadLinkTesting": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.8.1/latest.zip",
+		"DownloadLinkTesting": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.9/latest.zip",
 		"DownloadLinkUpdate": "https://github.com/CatboyEngineering/KinkShellClient/releases/download/v0.0.8.1/latest.zip"
 	},
 	{
